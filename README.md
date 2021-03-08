@@ -5,16 +5,16 @@
 
 <h2>  Contact me 🌐</h2>
 
-<a href="">
-  <img align="left" alt="Sergio Twitter" width="22px" src="https://user-images.githubusercontent.com/57324758/109565746-e9c88f00-7ab0-11eb-8a59-3599ca53d8c0.png" />
+<a href="https://twitter.com/Daniel_Lagos01">
+  <img align="left" alt="Daniel Twitter" width="22px" src="https://user-images.githubusercontent.com/57324758/109565746-e9c88f00-7ab0-11eb-8a59-3599ca53d8c0.png" />
 </a>
 
-<a href="">
-  <img align="left" alt="Sergio linkedin," width="22px" src="https://user-images.githubusercontent.com/57324758/109566122-6ce9e500-7ab1-11eb-859c-718023da8360.png" />
+<a href="https://www.linkedin.com/in/daniel-lagos-aa4652204/">
+  <img align="left" alt="Daniel linkedin," width="22px" src="https://user-images.githubusercontent.com/57324758/109566122-6ce9e500-7ab1-11eb-859c-718023da8360.png" />
 </a>
 
-<a href="">
-  <img align="left" alt="" width="22px" src="https://user-images.githubusercontent.com/57324758/109564522-2e532b00-7aaf-11eb-9bc6-ba77f6fc5963.png" />
+<a href="https://www.instagram.com/daniel_lagos01/">
+  <img align="left" alt="Daniel Instagram" width="22px" src="https://user-images.githubusercontent.com/57324758/109564522-2e532b00-7aaf-11eb-9bc6-ba77f6fc5963.png" />
 </a>
 <br>
 
