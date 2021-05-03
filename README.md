@@ -3,6 +3,9 @@
  <img alt="wave" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 </h1>
 
+<h2>  Stats 💻</h2>
+![Daniel github stats](https://github-readme-stats.vercel.app/api?username=Daniel-Lagos01&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Lagos01&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2>  Contact me 🌐</h2>
 
@@ -18,15 +21,61 @@
 </a>
 </p>
 
-<br>
 
-<h2>  Stats 💻</h2>
-
-
-![Daniel github stats](https://github-readme-stats.vercel.app/api?username=Daniel-Lagos01&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Lagos01&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/jahirfiquitiva">
+        <img src="https://avatars.githubusercontent.com/u/10360816?v=4" width="100px;" alt="jahirfiquitiva"/>
+      </a>
+      <br />
+      <a href="https://github.com/jahirfiquitiva">Jahir Fiquitiva</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/sergio1599">
+        <img src="https://avatars.githubusercontent.com/u/57324758?v=4" width="100px;" alt="sergio1599"/>
+      </a>
+      <br />
+      <a href="https://github.com/sergio1599">Sergio Quintana</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ArgeNH">
+        <img src="https://avatars.githubusercontent.com/u/58793851?v=4" width="100px;" alt="ArgeNH"/>
+      </a>
+      <br />
+      <a href="https://github.com/ArgeNH">Arge Niño</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/gseth">
+        <img src="https://avatars.githubusercontent.com/u/6172927?v=4" width="100px;" alt="Gaurav Seth"/>
+      </a>
+      <br />
+      <a href="https://github.com/gseth">Gaurav Seth</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/pedrojespinosa">
+        <img src="https://avatars.githubusercontent.com/u/79599108?v=4" width="100px;" alt="pedrojespinosa"/>
+      </a>
+      <br />
+      <a href="https://github.com/pedrojespinosa">Pedro Espinosa</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/MiaKallenberg">
+        <img src="https://avatars.githubusercontent.com/u/71706732?v=4" width="100px;" alt="MiaKallenberg"/>
+      </a>
+      <br />
+      <a href="https://github.com/MiaKallenberg">Mia Kallenberg</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/AmazingMachine">
+        <img src="https://avatars.githubusercontent.com/u/28883779?v=4" width="100px;" alt="AmazingMachine"/>
+      </a>
+      <br />
+      <a href="https://github.com/AmazingMachine">Emmental</a>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   Made with :heart: &nbsp;using GitHub Markdown
 </p>
-
