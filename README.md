@@ -3,9 +3,20 @@
  <img alt="wave" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 </h1>
 
-<h2>  Stats 💻</h2>
-![Daniel github stats](https://github-readme-stats.vercel.app/api?username=Daniel-Lagos01&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Lagos01&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+
+### Talking about Personal Stuffs:
+
+- 🛠 &nbsp; I’m currently working with Nodejs, Express, React, <br /> Typescript, Mongodb, Javascript, etc.
+- 🚀 &nbsp; I’m currently learning Full Stack Development.
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/iampavangandhi).
+
+### Stats 💻
+
+![Daniel github stats](https://github-readme-stats.vercel.app/api?username=Daniel-Lagos01&show_icons=true&title_color=A77ECB&icon_color=FEEA94&text_color=7EDAC9&bg_color=151515)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Lagos01&layout=compact&title_color=A77ECB&icon_color=FEEA94&text_color=7EDAC9&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <h2>  Contact me 🌐</h2>
 
