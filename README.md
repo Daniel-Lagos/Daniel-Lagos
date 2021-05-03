@@ -1,21 +1,23 @@
-# Hello World <img alt="wave" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
-## 👨🏻‍💻Daniel Lagos say HI!! [UPTC](http://www.uptc.edu.co/).
+<h1 align="center">
+  Hello World!!
+ <img alt="wave" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+</h1>
 
 
 <h2>  Contact me 🌐</h2>
 
+<p>
 <a href="https://twitter.com/Daniel_Lagos01">
-  <img align="left" alt="Daniel Twitter" width="22px" src="https://user-images.githubusercontent.com/57324758/109565746-e9c88f00-7ab0-11eb-8a59-3599ca53d8c0.png" />
-</a>
-
+  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
+</a> 
 <a href="https://www.linkedin.com/in/daniel-lagos-aa4652204/">
-  <img align="left" alt="Daniel linkedin," width="22px" src="https://user-images.githubusercontent.com/57324758/109566122-6ce9e500-7ab1-11eb-859c-718023da8360.png" />
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
 </a>
-
 <a href="https://www.instagram.com/daniel_lagos01/">
-  <img align="left" alt="Daniel Instagram" width="22px" src="https://user-images.githubusercontent.com/57324758/109564522-2e532b00-7aaf-11eb-9bc6-ba77f6fc5963.png" />
+  <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25>
 </a>
+</p>
+
 <br>
 
 <h2>  Stats 💻</h2>
