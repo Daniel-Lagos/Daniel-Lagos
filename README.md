@@ -21,6 +21,13 @@
 
 <table>
   <tr>
+     <td align="center">
+      <a href="https://www.instagram.com/dualipa/">
+        <img src="https://tse1.mm.bing.net/th?id=OIP.5EpZGlapWO-NIzh-2hy34AHaJQ&pid=Api" width="100px;" alt="Dua Lipa"/>
+      </a>
+      <br />
+      <a href="https://www.instagram.com/dualipa/">Dua Lipa</a>
+    </td>
     <td align="center">
       <a href="https://github.com/jahirfiquitiva">
         <img src="https://avatars.githubusercontent.com/u/10360816?v=4" width="100px;" alt="jahirfiquitiva"/>
@@ -69,13 +76,6 @@
       </a>
       <br />
       <a href="https://github.com/AmazingMachine">Emmental</a>
-    </td>
-     <td align="center">
-      <a href="https://www.instagram.com/dualipa/">
-        <img src="https://i.pinimg.com/originals/2f/16/2c/2f162c1a2c0faf985cb80b5d879a86bb.jpg" width="100px;" height="100px;" alt="Dua Lipa"/>
-      </a>
-      <br />
-      <a href="https://www.instagram.com/dualipa/">Dua Lipa</a>
     </td>
   </tr>
 </table>
