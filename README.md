@@ -5,13 +5,15 @@
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
-### Talking about Personal Stuffs:
+### Talking about Personal Stuffs: 
 
 - 🛠 &nbsp; I’m currently working with Nodejs, Express, React, <br /> Typescript, Mongodb, Javascript, etc.
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Daniel-Lagos?tab=repositories).
 - I love travel.
-
+#
+#
+#
 ### Stats 💻
 
 ![Daniel github stats](https://github-readme-stats.vercel.app/api?username=Daniel-Lagos&show_icons=true&title_color=A77ECB&icon_color=FEEA94&text_color=7EDAC9&bg_color=151515)
