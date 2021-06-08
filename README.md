@@ -96,7 +96,7 @@
   <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25>
 </a>
 </p>
-#
+
 <p align="center">
   Made with :heart: &nbsp;using GitHub Markdown
 </p>
