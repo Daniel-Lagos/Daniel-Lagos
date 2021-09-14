@@ -7,7 +7,7 @@
 
 ### Talking about Personal Stuffs: 
 
-- 🛠 &nbsp; I’m currently working with Nodejs, Express, React, <br /> Typescript, Mongodb, Javascript, etc.
+- 🛠 &nbsp; I’m currently working with Nodejs, Express, React, <br /> Typescript, Mongodb, Javascript, NextJs, Material UI, Material Components etc.
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Daniel-Lagos?tab=repositories).
 #
