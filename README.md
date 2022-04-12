@@ -7,7 +7,9 @@
 
 ### Talking about Personal Stuffs: 
 
-- 🛠 &nbsp; I’m currently working with Nodejs, Express, React, <br /> Typescript, Mongodb, Javascript, NextJs,<br /> Material UI, Material Components, Next UI , Firebase.
+- 🛠 &nbsp; I’m currently working with Nodejs, Express, React, <br /> Typescript, Mongodb, Javascript, NextJs,<br /> Material UI, Material Components, Next UI ,
+<br/>
+Firebase.
 - 🚀 &nbsp; I’m currently PWA.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Daniel-Lagos?tab=repositories).
 #
